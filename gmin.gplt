@@ -1,0 +1,3 @@
+set terminal png
+set output "gmin.png"
+plot 'best' w l, 'markov' w l, 'energy' w l 
