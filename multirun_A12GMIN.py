@@ -104,7 +104,7 @@ def run_a12gmin():
             os.remove('./cis_trans_states')
 
 
-# A list of vales associated with the keyword which we want to vary
+# A list of parameters associated with the keyword which we want to vary
 parameters = [2.0, 4.0, 6.0]
 
 if __name__ == '__main__':
